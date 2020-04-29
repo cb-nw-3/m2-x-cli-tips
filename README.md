@@ -1,6 +1,3 @@
-import mdxTheme from '../theme';
-export const theme = mdxTheme;
-
 # Command Line Interface
 
 ---
